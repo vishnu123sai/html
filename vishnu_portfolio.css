@@ -1,0 +1,38 @@
+.main{
+	background-color:#c6ecc6
+}
+.navbar-inverse {
+    background-color: 	#001a66;
+    border-color: #003333;
+	border-radius : 0px;
+}
+.navbar-brand	{
+padding-left : 360px;
+}
+
+.navbar-right
+{
+	padding-right: 50px;
+	margin-right: 0px;
+}
+.navbar-left
+{
+	padding-left: 50px;
+}
+.col2{
+	padding-left:30px;
+}
+.objective
+{
+	font-size : 25px;
+}
+.mailmebutton{
+	padding-left: 125px;
+	border-radius: 100px;
+}
+.content{
+padding-top : 100px;
+}
+.job_details{
+ padding-left : 50px;
+}
